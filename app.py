@@ -7,7 +7,7 @@ from chatbot import load_vectorstore, init_chatbot
 # 📌 Setup
 # ===============================
 st.set_page_config(page_title="🧠 Local RAG Chatbot", layout="centered")
-st.title("🧠 Context-Aware Chatbot (Local RAG + LangChain)")
+st.title("🧠 Context-Aware Chatbot ")
 
 # Initialize chatbot on first run
 if "qa" not in st.session_state:
