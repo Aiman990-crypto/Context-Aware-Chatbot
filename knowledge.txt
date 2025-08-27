@@ -1,0 +1,4 @@
+Machine learning is a branch of artificial intelligence that focuses on the use of data and algorithms to imitate the way humans learn. 
+Deep learning is a subset of machine learning that uses neural networks with many layers.
+LangChain is a framework for developing applications powered by language models. 
+Retrieval-Augmented Generation (RAG) combines retrieval from a knowledge base with generative models to improve accuracy.
