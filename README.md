@@ -3,7 +3,7 @@
 A chatbot powered by **LangChain**, **FAISS**, and **HuggingFace Transformers**, deployed on **Streamlit**.  
 It can answer questions based on your own knowledge base (`knowledge.txt`) and remembers the conversation context.  
 
-🚀 **Live Demo:** [Click here to try the app](https://your-app-name.streamlit.app)  
+🚀 **Live Demo:** [Click here to try the app](https://context-aware-chatbot-app.streamlit.app/)  
 
 ---
 
